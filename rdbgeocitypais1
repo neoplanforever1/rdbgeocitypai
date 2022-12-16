@@ -49,15 +49,15 @@
     "number": 5,
     "route": "32361",
     "front": 4,
-    "frontid1": "rbxassetid://11834132792,
-    "frontid2": "rbxassetid://11834134488,
-    "frontid3": "rbxassetid://11834135623,
-    "frontid4": "rbxassetid://11834136774,
+    "frontid1": "rbxassetid://11834132792",
+    "frontid2": "rbxassetid://11834134488",
+    "frontid3": "rbxassetid://11834135623",
+    "frontid4": "rbxassetid://11834136774",
     "controllerid1": "rbxassetid://11834132792",
     "side": 4,
     "sideid1": "rbxassetid://11834132792",
-    "sideid1": "rbxassetid://11834134488",
-    "sideid1": "rbxassetid://11834135623",
-    "sideid1": "rbxassetid://11834136774"
+    "sideid2": "rbxassetid://11834134488",
+    "sideid3": "rbxassetid://11834135623",
+    "sideid4": "rbxassetid://11834136774"
   }
   ]
